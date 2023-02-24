@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey 👋, I'm matakitanaka
+
+Founder of Ohmylike Inc.
+
+## Skills
+
+- Ruby on Rails
 
 <!--
 **matakitanakajp09/matakitanakajp09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
