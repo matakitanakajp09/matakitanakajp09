@@ -1,6 +1,6 @@
 # Hey 👋, I'm matakitanaka
 
-Founder of Ohmylike Inc.
+Founder of Oh My Like, Inc.
 
 ## Skills
 
